@@ -19,22 +19,42 @@ My name is Kuba Krajewski and I am an experienced teacher of English who is will
 * ISTQB Foundation Exam Prep
 * TestArmy Academy - Akademia Testowania
 
-## Courses in progress:
+## Soft skills:
+
+* Ability to work individually and in a team
+* Open - minded and willing to learn/ self - improve
+* High meticulousness and attention to detail
+* Organisation, discipline and dedication
+* Motivation for good/ positive communication & relationships
+
+## Basic knowledge of:
+
+* SQL
+* Postman
+* Qase, Zephyr, qTest, TestLink
+* Jira, Asana, Trello
+* Selenium IDE, Katalon Recorder
+* Devtools
+* PickPick
+* ShareX
+GoFullPage
+JSON Viewer
+Google Lighthouse
+BugMagnet
+
+## Basic tech skills and testing methodologies:
+
+* Agile - Scrum
+* Software testing
+* Creating test case scenarios
+* Creating test cases
+* Reporting defects
+* Using MS Office
+
+## My test case examples:
 
 
-## Browser used during testing:
-
-
-## Know in basics:
-
-
-## Tech skills in basics:
-
-
-## My test case example:
-
-
-## My bug report example:
+## My defect report examples:
 
 
 ## My Google Lighthouse test example: 
