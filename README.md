@@ -57,6 +57,6 @@ BugMagnet
 
 ## My defect report example:
 
-[Defect report example] 
+[Defect report example] (https://github.com/Inadurill/Inadurill.github.io/blob/master/example%20defect%20report.png)
 
 ## My Google Lighthouse test example: 
