@@ -1,5 +1,3 @@
-# test-reports
-
 ## About me
 Hello,
 
@@ -40,7 +38,7 @@ My name is Kuba Krajewski and I am an experienced teacher of English who is will
 GoFullPage
 JSON Viewer
 Google Lighthouse
-BugMagnet
+* BugMagnet
 
 ## Basic tech skills and testing methodologies:
 
@@ -53,10 +51,10 @@ BugMagnet
 
 ## My test case examples:
 
-[Test case examples] (https://github.com/Inadurill/Inadurill.github.io/blob/master/example%20test%20cases.pdf)
+[Test case examples](https://github.com/Inadurill/Inadurill.github.io/blob/master/example%20test%20cases.pdf)
 
 ## My defect report example:
 
-[Defect report example] (https://github.com/Inadurill/Inadurill.github.io/blob/master/example%20defect%20report.png)
+[Defect report example](https://github.com/Inadurill/Inadurill.github.io/blob/master/example%20defect%20report.png)
 
 ## My Google Lighthouse test example: 
