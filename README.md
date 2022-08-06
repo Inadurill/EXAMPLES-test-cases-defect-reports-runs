@@ -52,9 +52,11 @@ BugMagnet
 * Using MS Office
 
 ## My test case examples:
-[Test case example] 
 
-## My defect report examples:
+[Test case examples] (https://github.com/Inadurill/Inadurill.github.io/blob/master/example%20test%20cases.pdf)
 
+## My defect report example:
+
+[Defect report example] 
 
 ## My Google Lighthouse test example: 
