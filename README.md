@@ -52,7 +52,7 @@ BugMagnet
 * Using MS Office
 
 ## My test case examples:
-
+[Test case example] 
 
 ## My defect report examples:
 
