@@ -58,3 +58,7 @@ My name is Kuba Krajewski and I am an experienced teacher of English who is will
 [Defect report example](https://github.com/Inadurill/Inadurill.github.io/blob/master/example%20defect%20report.png)
 
 ## My Google Lighthouse test example: 
+
+[Google lighthouse test - desktop](https://github.com/Inadurill/Inadurill.github.io/blob/master/google%20lighthouse%20test%20desktop.jpg)
+
+[Google lighthouse test - mobile](https://github.com/Inadurill/Inadurill.github.io/blob/master/google%20lighthouse%20test%20mobile.jpg)
