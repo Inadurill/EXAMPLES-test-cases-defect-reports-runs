@@ -25,27 +25,27 @@ My name is Kuba Krajewski and I am an experienced teacher of English who is will
 * Organisation, discipline and dedication
 * Motivation for good/ positive communication & relationships
 
-## Basic knowledge of:
+## Tools (basics):
 
-* SQL
-* Postman
+* Postman 
 * Qase, Zephyr, qTest, TestLink
-* Jira, Asana, Trello
-* Selenium IDE, Katalon Recorder
-* Devtools
-* PickPick
-* ShareX
+* Jira, Asana, Sharepoint, Trello
+* Selenium IDE, Katalon Recorder 
+* Devtools 
+* PickPick, ShareX, Screenpresso
 * GoFullPage
-* JSON Viewer
-* BugMagnet
+* BugMagnet, Bird Eats Bug
 
-## Basic tech skills and testing methodologies:
+## Technical skills:
 
+* Theoretical knowledge of testing
 * Agile - Scrum
-* Software testing
 * Creating test case scenarios
 * Creating test cases
-* Reporting defects
+* Defect reporting
+* MS SQL Server
+* ISTQB knowledge - still improving
+* Manual testing
 * Using MS Office
 
 ## My test case examples:
