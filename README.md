@@ -58,6 +58,6 @@ My name is Kuba Krajewski and I am an experienced teacher of English who is will
 
 ## My Google Lighthouse test examples: 
 
-[Google lighthouse test - desktop]()
+[Google lighthouse test - desktop](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/google%20lighthouse%20test%20-%20desktop.jpg)
 
-[Google lighthouse test - mobile]()
+[Google lighthouse test - mobile](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/google%20lighthouse%20test%20-%20mobile.jpg)
