@@ -35,9 +35,9 @@ My name is Kuba Krajewski and I am an experienced teacher of English who is will
 * Devtools
 * PickPick
 * ShareX
-GoFullPage
-JSON Viewer
-Google Lighthouse
+* GoFullPage
+* JSON Viewer
+* Google Lighthouse
 * BugMagnet
 
 ## Basic tech skills and testing methodologies:
