@@ -50,11 +50,11 @@ My name is Kuba Krajewski and I am an experienced teacher of English who is will
 
 ## My test case examples:
 
-[Test case examples](https://github.com/Inadurill/Inadurill.github.io/blob/master/example%20test%20cases.pdf)
+[Test case examples](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/example%20test%20cases.pdf)
 
 ## My defect report example:
 
-[Defect report example](https://github.com/Inadurill/Inadurill.github.io/blob/master/example%20defect%20report.png)
+[Defect report example](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/example%20defect%20report.jpg)
 
 ## My Google Lighthouse test examples: 
 
