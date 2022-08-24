@@ -5,7 +5,7 @@
 
 ## My defect report example:
 
-[Defect report example](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/example%20defect%20report.jpg)
+["Contact Form" defect report example](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/example%20defect%20report.jpg)
 
 ## My Google Lighthouse test examples: 
 
